@@ -1,7 +1,7 @@
 # Content-Based Book Recommendation System
 ## Darwin's bibliography
 
-<img src="https://user-images.githubusercontent.com/88032779/159558059-896ca2b2-f7cb-45e3-9e40-45b941c99511.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/88032779/159558059-896ca2b2-f7cb-45e3-9e40-45b941c99511.jpg" width=250 height=250>
 
 Charles Darwin is one of the few universal figures of science. His most renowned work is without a doubt his "On the Origin of Species" published in 1859 which introduced the concept of natural selection. But Darwin wrote many other books on a wide range of topics, including geology, plants or his personal life. In this notebook, we will automatically detect how closely related his books are to each other.
 
